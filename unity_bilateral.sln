@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1a713a68-28d2-634a-ae38-09da5872c7af}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMode", "PlayMode.csproj", "{afde0551-bfaa-ce0d-f86a-f3f61a1ba40d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Robotics.PickAndPlace", "Unity.Robotics.PickAndPlace.csproj", "{917cab47-f2bd-de1c-12fe-e257fc1445fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditMode", "EditMode.csproj", "{b3115cb0-1fb1-0d93-99a0-2ecef80a3be1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1a713a68-28d2-634a-ae38-09da5872c7af}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1a713a68-28d2-634a-ae38-09da5872c7af}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{afde0551-bfaa-ce0d-f86a-f3f61a1ba40d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{afde0551-bfaa-ce0d-f86a-f3f61a1ba40d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917cab47-f2bd-de1c-12fe-e257fc1445fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917cab47-f2bd-de1c-12fe-e257fc1445fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b3115cb0-1fb1-0d93-99a0-2ecef80a3be1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b3115cb0-1fb1-0d93-99a0-2ecef80a3be1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
